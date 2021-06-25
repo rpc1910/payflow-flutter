@@ -1,8 +1,6 @@
-<center>
-
-![Pay Flow](./assets/images/logofull.png)
-
-</center>
+<p align="center">
+  <img src="./assets/images/logofull.png">
+</p>
 
 # Pay Flow (Flutter)
 
