@@ -1,16 +1,22 @@
-# payflow
+<center>
 
-A new Flutter project.
+![Pay Flow](./assets/images/logofull.png)
 
-## Getting Started
+</center>
 
-This project is a starting point for a Flutter application.
+# Pay Flow (Flutter)
 
-A few resources to get you started if this is your first Flutter project:
+Projeto desenvolvido durante o Next Level Week 6 na trilha de flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Protótipo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Login                                             | Tela Inicial                                    |
+| ------------------------------------------------- | ----------------------------------------------- |
+| ![Tela de login do Pay Flow](./.github/login.jpg) | ![Tela inicial do Pay Flow](./.github/home.jpg) |
+
+## Tecnologias
+
+- Flutter
+- ML Kit
+- Firebase
+- Google Authenticator
